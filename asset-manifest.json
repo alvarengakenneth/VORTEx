@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/VORTEx/static/css/main.f855e6bc.css",
+    "main.js": "/VORTEx/static/js/main.76a9a2ed.js",
+    "static/js/453.71d5e288.chunk.js": "/VORTEx/static/js/453.71d5e288.chunk.js",
+    "static/media/fondo_juego.png": "/VORTEx/static/media/fondo_juego.f77c1c5f0015793dee5e.png",
+    "static/media/chainlink2.png": "/VORTEx/static/media/chainlink2.38190bbf47c5734dc649.png",
+    "static/media/chainlink.png": "/VORTEx/static/media/chainlink.3a70989ac2ad7a8b6e75.png",
+    "static/media/OpenZeppelin.png": "/VORTEx/static/media/OpenZeppelin.6ce0baf22f8875554e2c.png",
+    "static/media/scroll2.png": "/VORTEx/static/media/scroll2.124db71b55ce13998417.png",
+    "static/media/scroll1.png": "/VORTEx/static/media/scroll1.ca9391a83a5e7ada8204.png",
+    "static/media/bus.png": "/VORTEx/static/media/bus.7d950a743c11b6968e48.png",
+    "static/media/intro_image_redu.png": "/VORTEx/static/media/intro_image_redu.b9f57c31590242a5750a.png",
+    "static/media/logos_scroll.gif": "/VORTEx/static/media/logos_scroll.32e5215a71ccf0442795.gif",
+    "static/media/logo.svg": "/VORTEx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VORTEx/index.html",
+    "main.f855e6bc.css.map": "/VORTEx/static/css/main.f855e6bc.css.map",
+    "main.76a9a2ed.js.map": "/VORTEx/static/js/main.76a9a2ed.js.map",
+    "453.71d5e288.chunk.js.map": "/VORTEx/static/js/453.71d5e288.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.76a9a2ed.js"
+  ]
+}
